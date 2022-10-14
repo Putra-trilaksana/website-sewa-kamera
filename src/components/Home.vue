@@ -15,7 +15,7 @@ export default {
     </div>
 </template>
 
-<style>
+<style scoped>
 
 .list-item {
     margin-top: 20px;
